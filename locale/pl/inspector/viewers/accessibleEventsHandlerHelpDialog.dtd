@@ -1,0 +1,18 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY helpDialog.title "Pomoc uchwytu">
+
+<!ENTITY general.descr "Napisz i załącz uchwyt zdarzenia dostępności. Gdy te zdarzenie wystąpi, będzie można wybrać je z listy zdarzeń oraz zobaczyć wyniki analizy uchwytu w podglądzie zdarzeń dostępności.">
+<!ENTITY helpers.descr "Następujące objekty i funkcje mogą być używane w edytorze uchwytów:">
+
+<!ENTITY event.descr "objekt zdarzenia dostępności">
+<!ENTITY target.descr "objekt docelowy dostępności">
+<!ENTITY accRetrieval.descr "Serwis dostępności nsIAccessibleRetrieval">
+<!ENTITY output.descr "pokazuje wybrany ciąg">
+<!ENTITY outputAttrs.descr "pokazuje atrybuty objektu dla wybranego objektu dostępności">
+<!ENTITY outputRole.descr "pokazuje role dla wybranego objektu dostępności">
+<!ENTITY outputStates.descr "pokazuje stany wybranego objektu dostępności">
+<!ENTITY outputTree.descr "pokazuje drzewo dla wybranego objektu dostępności, podświetlając elementy dostępnościowe z wybranej listy">
+<!ENTITY outputDOMAttrs.descr "pokazuje atrybuty DOM dla wybranego objektu dostępności">
