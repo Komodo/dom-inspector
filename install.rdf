@@ -8,7 +8,7 @@
      xmlns:em="http://www.mozilla.org/2004/em-rdf#">
   <Description about="urn:mozilla:install-manifest">
     <em:id>inspector@mozilla.org</em:id>
-    <em:version>2.0.15</em:version>
+    <em:version>2.0.16</em:version>
 
     <!-- DOM Inspector supports Gecko 1.9.0 and higher.
          All applications listed below are the subset of supported versions
@@ -81,7 +81,7 @@
         <!-- Komodo IDE's uuid -->
         <em:id>{36E66FA0-F259-11D9-850E-000D935D3368}</em:id>
         <em:minVersion>4.0</em:minVersion>
-        <em:maxVersion>10.*</em:maxVersion>
+        <em:maxVersion>11.*</em:maxVersion>
       </Description>
     </em:targetApplication>
 
@@ -90,7 +90,7 @@
         <!-- Komodo Edit's uuid -->
         <em:id>{b1042fb5-9e9c-11db-b107-000d935d3368}</em:id>
         <em:minVersion>4.0</em:minVersion>
-        <em:maxVersion>10.*</em:maxVersion>
+        <em:maxVersion>11.*</em:maxVersion>
       </Description>
     </em:targetApplication>
 
